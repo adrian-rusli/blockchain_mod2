@@ -38,3 +38,12 @@ See code/script: [***fintech_finder.py***](https://github.com/adrian-rusli/block
     
         !["Screenshot 5"](https://github.com/adrian-rusli/blockchain_mod2/blob/main/Images/Screenshot%202022-04-01%20031112.jpg)
 
+<br>
+
+---
+
+<br>
+
+### **Deployment and Submission**
+
+!["Screenshot 3"](https://github.com/adrian-rusli/blockchain_mod2/blob/main/Images/Screenshot%202022-04-01%20031647.jpg)
