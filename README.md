@@ -18,7 +18,7 @@ See code/script: [***fintech_finder.py***](https://github.com/adrian-rusli/block
 ### **Step 3: Inspect the Transaction**
 1. From your terminal, navigate to the project folder that contains your .env file and the fintech_finder.py and crypto_wallet.py files. Be sure to activate your Conda dev environment if it is not already active.
 
-    ![Screenshot 1](Images/'Screenshot 2022-04-01 024827.jpg')
+    ![Screenshot 1](https://github.com/adrian-rusli/blockchain_mod2/blob/main/Images/Screenshot%202022-04-01%20024827.jpg)
 
 2. To launch the Streamlit application, type streamlit run fintech_finder.py.
 
