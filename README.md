@@ -3,8 +3,6 @@
 ## Blockchain/Crypto Wallet
 ---
 
-<br>
-
 ### **Step 1: Import Ethereum Transaction Functions into the Fintech Finder Application**
 See code/script: [***fintech_finder.py***](https://github.com/adrian-rusli/blockchain_mod2/blob/main/fintech_finder.py)
 
@@ -41,8 +39,6 @@ See code/script: [***fintech_finder.py***](https://github.com/adrian-rusli/block
 <br>
 
 ---
-
-<br>
 
 ### **Deployment and Submission**
 
